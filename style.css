@@ -1,0 +1,28 @@
+#footer{
+    background-color: cadetblue;
+    text-align: center;
+    bottom:0;
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+    font-size: 15px;
+}
+
+.information{
+    font-size: 23px;
+    color:whitesmoke;
+    box-shadow: 5px 5px 5px gray;
+    top:0;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.directions{
+    font-size:15px ;
+    color: black;
+}
+
+canvas{
+    border: 2px solid rgb(221,195,147);
+}
+
